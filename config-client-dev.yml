@@ -2,4 +2,4 @@
 info:
   profile: dev
   
-test: {cipher}cc
+test: cc

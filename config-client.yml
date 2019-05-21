@@ -2,4 +2,4 @@
 info:
   profile: default
   
-test: {cipher}aa
+test: aa
